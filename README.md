@@ -30,6 +30,7 @@ You need:
 - Python 3.10 or higher
 - Flask
 - bcrypt
+  
 To install & set up:
 1. **Clone this repository**
 ```bash
